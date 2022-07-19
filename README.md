@@ -20,3 +20,12 @@ MARCO TEÓRICO
 
 CAPÍTULO 11:
 
+![](https://github.com/MelanyArmas/Tarea-6/blob/main/Introducci%C3%B3n%20a%20la%20corriente%20y%20al%20voltaje%20alternos.png)
+
+![](https://github.com/MelanyArmas/Tarea-6/blob/main/Introducci%C3%B3n%20a%20la%20corriente%20y%20al%20voltaje%20alternos%20(1).png)
+
+![](https://github.com/MelanyArmas/Tarea-6/blob/main/Introducci%C3%B3n%20a%20la%20corriente%20y%20al%20voltaje%20alternos%20(2).png)
+
+![](https://github.com/MelanyArmas/Tarea-6/blob/main/Capacitores%20(1).png)
+
+![](https://github.com/MelanyArmas/Tarea-6/blob/main/Capacitores%20(2).png)
