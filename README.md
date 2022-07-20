@@ -84,7 +84,7 @@ Con respecto a 0º: La onda sinusoidal con pico a 75º se desplazaría 15º en a
 
 24. Determine la frecuencia para cada velocidad angular: (a) 60 rad/s (b) 360 rad/s (c) 2 rad/s (d) 1256 rad/s
 
-![](https://github.com/MelanyArmas/Tarea-6/blob/main/EJ%2024.jpg)+
+![](https://github.com/MelanyArmas/Tarea-6/blob/main/EJ%2024.jpg)
 
 26. Se aplica un voltaje sinusoidal al circuito resistivo de la figura 11-80. Determine los valores siguientes:
 
